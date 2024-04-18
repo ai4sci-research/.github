@@ -4,4 +4,4 @@ A curated selection of AI4science projects in various domains. Each project item
 
 😁 If you would like to join to prompt your research, please contact any of the existing members. We welcome all friends!
 
-**The repos listed here are only for showing. Please refer to the original repo (the source we forked) for more updated information.**
+❗❗❗**The repos listed here are only for showing. Please refer to the original repo (the source we forked) for more updated information.**❗❗❗
